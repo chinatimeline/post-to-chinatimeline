@@ -1,0 +1,2 @@
+# post-to-chinatimeline
+通过uri和bookmarklet分享新闻到chinatimeline
